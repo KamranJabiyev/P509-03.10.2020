@@ -1,0 +1,6 @@
+C:\Users\Kamran\source\repos\ClassApp\ClassApp\bin\Debug\ClassApp.exe.config
+C:\Users\Kamran\source\repos\ClassApp\ClassApp\bin\Debug\ClassApp.exe
+C:\Users\Kamran\source\repos\ClassApp\ClassApp\bin\Debug\ClassApp.pdb
+C:\Users\Kamran\source\repos\ClassApp\ClassApp\obj\Debug\ClassApp.csprojAssemblyReference.cache
+C:\Users\Kamran\source\repos\ClassApp\ClassApp\obj\Debug\ClassApp.exe
+C:\Users\Kamran\source\repos\ClassApp\ClassApp\obj\Debug\ClassApp.pdb
